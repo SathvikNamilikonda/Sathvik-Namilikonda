@@ -30,10 +30,10 @@ I'm passionate about building intelligent applications using **Python, Machine L
 - VS Code
 - Jupyter Notebook
 
--  Fun Facts
+### Fun Facts
 
-- I enjoy turning ideas into intelligent AI applications.
-- I believe the best way to learn is by building projects.
-- Curious about emerging AI technologies and research.
-- Fitness enthusiast who enjoys weight training.
-- Lifelong learner with a passion for technology.
+  - I enjoy turning ideas into intelligent AI applications.
+  - I believe the best way to learn is by building projects.
+  - Curious about emerging AI technologies and research.
+  - Fitness enthusiast who enjoys weight training.
+  - Lifelong learner with a passion for technology.
