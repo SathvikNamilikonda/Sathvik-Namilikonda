@@ -1,4 +1,3 @@
-# Sathvik-Namilikonda
 # Hi there, I'm Sathvik 👋
 
 ###  Aspiring AI Engineer
